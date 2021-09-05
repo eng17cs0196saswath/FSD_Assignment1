@@ -1,0 +1,5 @@
+table, th, td {
+  border:1px dashed black;
+  background-color:rgb(144, 217, 247);
+  color:rgb(12, 12, 12);
+}

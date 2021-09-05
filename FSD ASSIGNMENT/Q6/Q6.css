@@ -1,0 +1,20 @@
+.boxed {
+  border: 1px solid black ;
+  width:40%;
+  font-size:210%; 
+}
+.boxed1{
+  border: 1px solid black ;
+  width:50%;
+  font-size:210%; 
+}
+.boxed2{
+  border: 1px solid black ;
+  width:60%;
+  font-size:210%; 
+}
+.boxed3{
+  border: 1px solid black ;
+  width:70%;
+  font-size:210%; 
+}
